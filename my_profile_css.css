@@ -1,0 +1,12 @@
+body {
+  background-color: rgba(0,191,255, 0.3);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: blue
+}
+
+li {
+  margin-bottom: 10px;
+}
